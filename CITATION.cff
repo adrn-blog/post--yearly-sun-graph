@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Yearly sun graphs in Python with Astropy
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Adrian
+    family-names: Price-Whelan
+    email: adrianmpw@gmail.com
+    affiliation: Flatiron Institute
+    orcid: 'https://orcid.org/0000-0003-0872-7098'
+identifiers:
+  - type: url
+    value: 'https://github.com/adrn-blog/post--yearly-sun-graph'
+repository-code: 'https://github.com/adrn-blog/post--yearly-sun-graph'
+url: 'https://adrian.pw/blog/yearly-sun-graph/'
+keywords:
+  - astronomy
+  - python
+  - astropy
+license: MIT
